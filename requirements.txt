@@ -1,0 +1,12 @@
+fastapi>=0.120.0,<0.121
+pydantic>=2.7.0,<3.0
+pydantic-settings>=2.7.0,<3.0
+uvicorn[standard]
+SQLAlchemy
+asyncpg
+httpx
+alembic
+pytest
+pytest-asyncio
+pytest-mock
+aiosqlite
